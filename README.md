@@ -49,8 +49,8 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 
 ### Deployed Link
 
-See Live Site
-
+https://github.com/seyouny/responsive-portfolio
+https://seyouny.github.io/responsive-portfolio/
 
 ### Authors
 
